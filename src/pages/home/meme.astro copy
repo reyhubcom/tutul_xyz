@@ -29,6 +29,7 @@ const metadata = {
       alt: 'Magnet attracting screws. Lead generation landing page demo',
     }}
   />
+
   <CallToAction
     title="Coming soon"
     subtitle="We are working on the content of these demo pages. You will see them very soon. Stay tuned Stay tuned!"
