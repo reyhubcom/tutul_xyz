@@ -55,7 +55,7 @@ const metadata = {
 
     <Fragment slot="subtitle">
     <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.7.1/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/47697bb8-0635-4dfe-b087-f590050bb61a/mj4pJGUhi7.lottie" speed="0.5" style="width: 100%; height: 500px" mode="forward" loop autoplay></dotlottie-wc>
+     <dotlottie-wc src="https://lottie.host/ed58c0f4-79bd-4b3e-ba8f-f35eae43fe67/rauwfU1t3w.lottie" speed="1" style="width: 100%; height: 480px" mode="forward" loop autoplay></dotlottie-wc>
  </Fragment>
     </CallToAction>
       <span class="hidden sm:inline">
